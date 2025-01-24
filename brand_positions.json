@@ -1,0 +1,36 @@
+{
+    "Result": [
+        {
+            "Keyword": "hair fall shampoo",
+            "Position": {
+                "l'oreal paris": 5,
+                "dove": 1,
+                "tresemme": 32
+            }
+        },
+        {
+            "Keyword": "conditioner",
+            "Position": {
+                "l'oreal paris": null,
+                "dove": null,
+                "tresemme": null
+            }
+        },
+        {
+            "Keyword": "shampoo",
+            "Position": {
+                "l'oreal paris": 6,
+                "dove": 1,
+                "tresemme": 2
+            }
+        },
+        {
+            "Keyword": "Anti-Dandruff",
+            "Position": {
+                "l'oreal paris": null,
+                "dove": 2,
+                "tresemme": null
+            }
+        }
+    ]
+}
